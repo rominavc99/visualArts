@@ -1,0 +1,3 @@
+[submodule "visualart_frontend"]
+	path = visualart_frontend
+	url = https://github.com/rominavc99/visualArts
